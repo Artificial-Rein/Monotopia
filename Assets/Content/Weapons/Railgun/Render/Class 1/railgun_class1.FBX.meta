@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: a2af2fa3962424d48b7db08a47aad064
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: connector
+    100002: front_casing_l
+    100004: front_casing_r
+    100006: mag_strip_l
+    100008: mag_strip_r
+    100010: middle_casing_l
+    100012: middle_casing_r
+    100014: //RootNode
+    100016: rear_casing_l
+    100018: rear_casing_r
+    400000: connector
+    400002: front_casing_l
+    400004: front_casing_r
+    400006: mag_strip_l
+    400008: mag_strip_r
+    400010: middle_casing_l
+    400012: middle_casing_r
+    400014: //RootNode
+    400016: rear_casing_l
+    400018: rear_casing_r
+    2300000: connector
+    2300002: front_casing_l
+    2300004: front_casing_r
+    2300006: mag_strip_l
+    2300008: mag_strip_r
+    2300010: middle_casing_l
+    2300012: middle_casing_r
+    2300014: rear_casing_l
+    2300016: rear_casing_r
+    3300000: connector
+    3300002: front_casing_l
+    3300004: front_casing_r
+    3300006: mag_strip_l
+    3300008: mag_strip_r
+    3300010: middle_casing_l
+    3300012: middle_casing_r
+    3300014: rear_casing_l
+    3300016: rear_casing_r
+    4300000: mag_strip_r
+    4300002: rear_casing_r
+    4300004: middle_casing_r
+    4300006: front_casing_r
+    4300008: connector
+    4300010: middle_casing_l
+    4300012: front_casing_l
+    4300014: rear_casing_l
+    4300016: mag_strip_l
+    7400000: Expand
+    7400002: Compress
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Expand
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Compress
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

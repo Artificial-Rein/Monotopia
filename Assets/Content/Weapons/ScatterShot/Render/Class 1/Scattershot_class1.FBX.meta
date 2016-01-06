@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 81ddaf336aead7f439be659281f9bf4c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: left_scatter
+    100002: right_scatter
+    100004: //RootNode
+    100006: spine_l
+    100008: spine_lbl
+    100010: spine_lbr
+    100012: spine_r
+    100014: spine_rbl
+    100016: spine_rbr
+    400000: left_scatter
+    400002: right_scatter
+    400004: //RootNode
+    400006: spine_l
+    400008: spine_lbl
+    400010: spine_lbr
+    400012: spine_r
+    400014: spine_rbl
+    400016: spine_rbr
+    2300000: left_scatter
+    2300002: right_scatter
+    2300004: spine_l
+    2300006: spine_lbl
+    2300008: spine_lbr
+    2300010: spine_r
+    2300012: spine_rbl
+    2300014: spine_rbr
+    3300000: left_scatter
+    3300002: right_scatter
+    3300004: spine_l
+    3300006: spine_lbl
+    3300008: spine_lbr
+    3300010: spine_r
+    3300012: spine_rbl
+    3300014: spine_rbr
+    4300000: left_scatter
+    4300002: right_scatter
+    4300004: spine_r
+    4300006: spine_rbl
+    4300008: spine_rbr
+    4300010: spine_lbr
+    4300012: spine_lbl
+    4300014: spine_l
+    7400000: Charging
+    7400002: Charged
+    7400004: passive
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Charging
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Charged
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 6d9dc2e287ebd5f4e9904fa1fc4b3cef
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: //RootNode
+    100004: Energy
+    100006: bullet_spawn
+    100008: Barrel_left
+    100010: Barrel_right
+    100012: Energy_Left
+    100014: Energy_Right
+    100016: Object001
+    100018: Artillery
+    100020: Barrel_l
+    100022: Barrel_r
+    100024: Energy_l
+    100026: Energy_r
+    400000: Barrel
+    400002: //RootNode
+    400004: Energy
+    400006: bullet_spawn
+    400008: Barrel_left
+    400010: Barrel_right
+    400012: Energy_Left
+    400014: Energy_Right
+    400016: Object001
+    400018: Artillery
+    400020: Barrel_l
+    400022: Barrel_r
+    400024: Energy_l
+    400026: Energy_r
+    2300000: Barrel
+    2300002: Energy
+    2300004: Barrel_left
+    2300006: Barrel_right
+    2300008: Energy_Left
+    2300010: Energy_Right
+    2300012: Object001
+    2300014: Artillery
+    2300016: Barrel_l
+    2300018: Barrel_r
+    2300020: Energy_l
+    2300022: Energy_r
+    3300000: Barrel
+    3300002: Energy
+    3300004: Barrel_left
+    3300006: Barrel_right
+    3300008: Energy_Left
+    3300010: Energy_Right
+    3300012: Object001
+    3300014: Artillery
+    3300016: Barrel_l
+    3300018: Barrel_r
+    3300020: Energy_l
+    3300022: Energy_r
+    4300000: Barrel
+    4300002: Energy
+    4300004: Barrel_left
+    4300006: Energy_Left
+    4300008: Energy_Right
+    4300010: Barrel_right
+    4300012: Object001
+    4300014: Barrel_r
+    4300016: Energy_r
+    4300018: Artillery
+    4300020: Barrel_l
+    4300022: Energy_l
+    7400000: Fire_right
+    7400002: Fire_left
+    7400004: Armed
+    7400006: Disarmed
+    7400008: Arming
+    7400010: Arm
+    7400012: Dearm
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Arm
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Dearm
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
